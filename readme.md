@@ -7,6 +7,7 @@
 <h5>Screenshots</h5>
 <img src="assets/images/image-map-first.png">
 <img src="assets/images/image-map-second.png">
+<img src="assets/images/image-shortcode.png">
 
 <h5>Demo Video Link:</h5>
 
