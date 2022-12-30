@@ -16,8 +16,7 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 /**
  * Class Uninstall
  *
- * @package    Plugin_Name_Name_Space
- * @author     Mehdi Soltani <soltani.n.mehdi@gmail.com>
+
  */
 class Uninstall {
 	/**
